@@ -83,3 +83,65 @@ Files Included
 Conclusion
 
 This project demonstrates how sentiment analysis can be used to understand public opinion through social media data. By utilizing Python libraries such as Pandas, Matplotlib, and Seaborn, meaningful insights were extracted and visualized effectively.
+
+
+# Netflix Movies & TV Shows Analysis
+## Project Overview
+
+This project focuses on analyzing Netflix's content library to identify trends related to movies, TV shows, production countries, content ratings, and content growth over time. The analysis was performed using Python and data visualization techniques to gain meaningful insights from the dataset.
+
+Research Question
+How has Netflix's content library evolved over time, and what trends can be observed in the distribution of Movies and TV Shows?
+
+Dataset Information
+The dataset contains information about movies and TV shows available on Netflix, including:
+
+* Title
+* Content Type
+* Country
+* Date Added
+* Release Year
+* Rating
+* Duration
+* Genre
+
+The dataset was analyzed using Python libraries such as Pandas, Matplotlib, and Seaborn.
+
+Tools and Technologies Used
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Google Colab
+
+Project Workflow
+1. Data Loading
+2. Data Exploration
+3. Data Cleaning
+4. Content Type Analysis
+5. Country-wise Analysis
+6. Content Growth Analysis
+7. Ratings Analysis
+8. Data Visualization
+9. Findings and Conclusion
+
+Visualizations Created
+* Movies vs TV Shows Distribution
+* Top 10 Countries Producing Netflix Content
+* Content Added to Netflix Over the Years
+* Most Common Netflix Ratings
+
+Key Findings
+* Movies are more common than TV Shows on Netflix.
+* The United States contributes the highest amount of content.
+* Netflix content increased significantly after 2015.
+* TV-MA and TV-14 are among the most common ratings.
+* Netflix has expanded its content library rapidly over recent years.
+
+Files Included
+* Netflix_Movies_TV_Shows_Analysis.ipynb
+* Netflix_Movies_TV_Shows_Analysis_Report.pdf
+
+Conclusion
+The analysis revealed
+
